@@ -1,5 +1,7 @@
 # calculadora_comisiones
 Ejercicio para realizar una calculadora que calcule las comisiones de ventas en el mes para vendedores con el 13% en total sumando las ventas totales
+[![Calculator](https://img.shields.io/badge/Calculator-%F0%9F%93%9A-green)](link_a_tu_calculadora)
+
 # Nombre del Proyecto
 
 Descripción corta del proyecto.
